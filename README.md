@@ -3,3 +3,6 @@
 tutorial:
 rendezd sorba a számokat
 üres mező mozgatás wasd
+
+[] mozgatás
+[] random számokkal feltöltés
