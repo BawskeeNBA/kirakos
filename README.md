@@ -4,5 +4,5 @@ tutorial:
 rendezd sorba a számokat
 üres mező mozgatás wasd
 
-[] mozgatás
+[x] mozgatás
 [] random számokkal feltöltés
